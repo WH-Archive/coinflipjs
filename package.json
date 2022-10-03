@@ -4,5 +4,20 @@
   "description": "Flip a coin",
   "main": "index.js",
   "author": "William Harrison",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamDavidHarrison/coinflipjs.git"
+  },
+  "keywords": [
+    "coin",
+    "flip"
+  ],
+  "bugs": {
+    "url": "https://github.com/WilliamDavidHarrison/coinflipjs/issues"
+  },
+  "homepage": "https://github.com/WilliamDavidHarrison/coinflipjs#readme"
 }

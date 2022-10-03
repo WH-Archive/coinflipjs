@@ -5,5 +5,7 @@ Flip a coin
 ```js
 const coinflip = require("coinflipjs");
 
-console.log(coinflip());
+const res = coinflip();
+
+console.log(res);
 ```
