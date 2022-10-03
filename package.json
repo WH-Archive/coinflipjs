@@ -1,0 +1,8 @@
+{
+  "name": "coinflipjs",
+  "version": "1.0.1",
+  "description": "Flip a coin",
+  "main": "index.js",
+  "author": "William Harrison",
+  "license": "ISC"
+}
