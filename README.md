@@ -9,3 +9,6 @@ const res = coinflip();
 
 console.log(res);
 ```
+
+---
+https://www.npmjs.com/package/coinflipjs
