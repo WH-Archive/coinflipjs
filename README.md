@@ -7,7 +7,7 @@ Flip a coin
 const coinflip = require("coinflipjs");
 
 // Generate result
-// Returns either "heads" or "tails"
+// Returns either heads or tails
 const res = coinflip();
 
 // Log the result
