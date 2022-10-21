@@ -1,6 +1,6 @@
 {
   "name": "coinflipjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Flip a coin",
   "main": "index.js",
   "author": "William Harrison",
