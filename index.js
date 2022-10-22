@@ -1,8 +1,5 @@
 function res() {
-    const results = ["heads", "tails"];
-    const res = results[Math.floor(Math.random() * results.length)];
-
-    return res;
+    return Math.random() >= 0.5 ? "heads" : "tails";
 }
 
 module.exports = res;
