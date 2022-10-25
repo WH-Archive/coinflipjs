@@ -1,6 +1,8 @@
 # CoinflipJS
 Flip a coin
 
+![Languages](https://skillicons.dev/icons?i=js)
+
 ## Usage
 ```js
 // Import Package
