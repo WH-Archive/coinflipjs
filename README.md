@@ -1,7 +1,19 @@
-# CoinflipJS
-Flip a coin
+<p align="center"><img src="icon.png"></p>
 
-![Languages](https://skillicons.dev/icons?i=js)
+<h1 align="center">CoinflipJS</h1>
+<p align="center">Flip a coin</p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js"></p>
+
+## Installation
+**Requirements**:
+- Node.js v16 or higher
+- npm
+
+Run the following command in your npm project directory and it will install.
+```
+npm install coinflipjs
+```
 
 ## Usage
 ```js
@@ -9,7 +21,6 @@ Flip a coin
 const coinflip = require("coinflipjs");
 
 // Generate result
-// Returns either heads or tails
 const res = coinflip();
 
 // Log the result
