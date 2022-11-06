@@ -1,9 +1,7 @@
-<p align="center"><img src="logo.png"></p>
+<p align="center"><img src="logo.png" height="96" width="96"></p>
 
 <h1 align="center">CoinflipJS</h1>
 <p align="center">Flip a coin</p>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=js"></p>
 
 ## Installation
 **Requirements**:
