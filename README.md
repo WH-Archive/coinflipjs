@@ -1,5 +1,3 @@
-<p align="center"><img src="icon.png"></p>
-
 <h1 align="center">CoinflipJS</h1>
 <p align="center">Flip a coin</p>
 
