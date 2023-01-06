@@ -1,3 +1,10 @@
+# Deprecated
+CoinflipJS has been **deprecated** and will no longer recieve **any** updates.
+
+This project has been integrated into [Easy Script](https://github.com/easyscriptjs/easyscript) as the `flip` module, it is recommended to use that instead.
+
+---
+
 <p align="center"><img src="logo.png" height="96" width="96"></p>
 
 <h1 align="center">CoinflipJS</h1>
