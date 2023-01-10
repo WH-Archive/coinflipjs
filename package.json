@@ -1,13 +1,13 @@
 {
   "name": "coinflipjs",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Flip a coin",
   "main": "index.js",
   "author": "William Harrison",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WilliamDavidHarrison/coinflipjs.git"
+    "url": "git+https://github.com/wh-archive/coinflipjs.git"
   },
   "keywords": [
     "coin",
@@ -15,7 +15,7 @@
     "coinflip"
   ],
   "bugs": {
-    "url": "https://github.com/WilliamDavidHarrison/coinflipjs/issues"
+    "url": "https://github.com/wh-archive/coinflipjs/issues"
   },
-  "homepage": "https://coinflip.js.org"
+  "homepage": "https://github.com/wh-archive/coinflipjs#readme"
 }
