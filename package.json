@@ -1,21 +1,8 @@
 {
   "name": "coinflipjs",
-  "version": "2.0.1",
-  "description": "Flip a coin",
+  "version": "2.0.2",
+  "description": "CoinflipJS has been deprecated and will no longer receive any updates.",
   "main": "index.js",
   "author": "William Harrison",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wh-archive/coinflipjs.git"
-  },
-  "keywords": [
-    "coin",
-    "flip",
-    "coinflip"
-  ],
-  "bugs": {
-    "url": "https://github.com/wh-archive/coinflipjs/issues"
-  },
-  "homepage": "https://github.com/wh-archive/coinflipjs#readme"
+  "license": "ISC"
 }

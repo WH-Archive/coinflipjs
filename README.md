@@ -1,7 +1,5 @@
-<h1 align="center">Deprecated</h1>
-<p align="center">CoinflipJS has been <strong>deprecated</strong> and will no longer receive <strong>any</strong> updates.</p>
-
-<p align="center">This project has been integrated into <a href="https://easyscript.dev">Easy Script</a> as the "flip" module, where it will continue to receive updates, so it is recommended to use that instead.</p>
+<h1 align="center">Package Deprecated</h1>
+<p align="center">CoinflipJS has been deprecated and will no longer receive any updates.</p>
 
 ---
 
